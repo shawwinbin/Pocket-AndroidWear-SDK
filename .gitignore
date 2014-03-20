@@ -1,0 +1,13 @@
+/library/bin
+/library/gen
+
+/library/libs/android-support-v4.jar
+/library/libs/wearable-preview-support.jar
+
+.DS_Store
+
+/sample/bin
+
+/library/.classpath
+
+/library/.project
