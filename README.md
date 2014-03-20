@@ -7,7 +7,7 @@ A simple project to add an "Add to Pocket" action to your Android Wear notificat
 PocketWearableNotificationUtil.addPocketAction(wearableBuilder, notifyId, url, null, context);
 ```
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.gif)
 
 
 Prototype
