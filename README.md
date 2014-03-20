@@ -3,6 +3,10 @@ Pocket Prototype SDK for Android Wearables
 
 A simple project to add an "Add to Pocket" action to your Android Wear notifications, with just one line of code.
 
+```java
+PocketWearableNotificationUtil.addPocketAction(wearableBuilder, notifyId, url, null, context);
+```
+
 ![Screenshot](screenshot.png)
 
 
@@ -13,7 +17,7 @@ Android's Wear APIs are in a Developer Preview and may change at any time. This 
 
 Use Cases
 -----
-Please see our blog post here: 
+[Please see our blog post.](http://getpocket.com/blog/2014/03/android-wear-prototype-quick-sharing-to-pocket)
 
 
 Setup
